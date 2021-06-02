@@ -1,0 +1,30 @@
+File:  Transactions.txt 
+Minimum Support Value:  0.3 
+Number of transactions:  7
+
+F1:
+{'beef'}:4, {'chicken'}:5, {'milk'}:4, {'cheese'}:4, {'clothes'}:3 
+
+
+C2:
+{'chicken', 'beef'}, {'beef', 'milk'}, {'cheese', 'beef'}, {'beef', 'clothes'}, {'chicken', 'milk'}, {'chicken', 'clothes'}, {'cheese', 'chicken'}, {'cheese', 'milk'}, {'cheese', 'clothes'}, {'milk', 'clothes'} 
+
+
+F2: 
+{'chicken', 'beef'}:3, {'cheese', 'beef'}:3, {'chicken', 'milk'}:4, {'chicken', 'clothes'}:3, {'milk', 'clothes'}:3 
+
+
+C3:
+{'chicken', 'milk', 'clothes'}
+
+
+F3: 
+{'chicken', 'milk', 'clothes'}:3 
+
+
+C4:
+
+
+
+F4: 
+
